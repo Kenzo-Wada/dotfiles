@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@loopback/cli": "^5.1.0",
+    "create-astro": "^4.9.0",
+    "create-farm": "^0.0.10",
+    "create-next-app": "^13.4.19",
+    "node-gyp": "^10.0.1"
+  }
+}

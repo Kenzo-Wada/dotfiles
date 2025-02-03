@@ -1,0 +1,30 @@
+
+[window]
+opacity = 0.9
+# blur = true
+startup_mode = "Maximized"
+dynamic_padding = true
+decorations = "Buttonless"
+
+[font]
+normal = { family = "PleckJP", style = "Regular" }
+size = 16
+
+[mouse]
+hide_when_typing = true
+
+[terminal.shell]
+program = "/bin/zsh"
+args = [
+  "-l",
+  "-c",
+  "zellij --layout ~/.config/zellij/layouts/default.kdl attach --index 0 --create",
+]
+
+[colors]
+transparent_background_colors = true
+
+[general]
+import = ["~/.config/alacritty/cyberdream.toml"]
+
+[terminal]
