@@ -4,7 +4,6 @@
 --
 vim.diagnostic.config({ virtual_text = false })
 vim.cmd("syntax enable")
-vim.treesitter.language.register("nginxconf", "nginx")
 vim.opt.cursorline = true
 vim.opt.termguicolors = true
 vim.opt.background = "dark"
@@ -41,6 +40,7 @@ vim.opt.visualbell = true
 vim.opt.wildmode = "list:longest"
 vim.opt.fenc = "utf-8"
 vim.opt.wrapscan = true
+vim.opt.clipboard = "unnamedplus"
 
 vim.g.lazygit_config = false
 

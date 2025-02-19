@@ -42,10 +42,10 @@ plugins {
 }
 
 layout {
+    pane
     pane size=1 borderless=true {
         plugin location="compact-bar"
     }
-    pane
 }
 
 // Choose what to do when zellij receives SIGTERM, SIGINT, SIGQUIT or SIGHUP
