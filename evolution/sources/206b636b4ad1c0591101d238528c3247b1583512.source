@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=wada.kenzo@ourplan.jp
+Enabled=true
+Parent=139eb0fd4c0859bfcebdaea9bec552c00cbdfad4
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=165e21c81c91591534da452e030613b921c24071
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=wada.kenzo@ourplan.jp
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

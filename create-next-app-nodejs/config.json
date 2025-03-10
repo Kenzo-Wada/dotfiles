@@ -1,0 +1,11 @@
+{
+	"preferences": {
+		"typescript": true,
+		"eslint": false,
+		"tailwind": false,
+		"srcDir": true,
+		"app": true,
+		"turbopack": true,
+		"importAlias": "~/*"
+	}
+}

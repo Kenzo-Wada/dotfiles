@@ -1,0 +1,3 @@
+### MANAGED BY RANCHER DESKTOP START (DO NOT EDIT)
+set --export --prepend PATH "/home/vvacla/.rd/bin"
+### MANAGED BY RANCHER DESKTOP END (DO NOT EDIT)

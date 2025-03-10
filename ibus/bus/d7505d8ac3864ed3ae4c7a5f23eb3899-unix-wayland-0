@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:path=/home/vvacla/.cache/ibus/dbus-MRL3gIMK,guid=85511a10be85912ec261520c67b5f115
-IBUS_DAEMON_PID=23441
+IBUS_ADDRESS=unix:path=/home/vvacla/.cache/ibus/dbus-pBMbafF5,guid=bda021b89444dea527401cd267cd9307
+IBUS_DAEMON_PID=7999
